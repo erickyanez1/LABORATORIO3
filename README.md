@@ -58,7 +58,7 @@
 
 <div align="center">
 
- 
+ ![](https://github.com/erickyanez1/LABORATORIO3/blob/main/IMG/Simulacion_circuito.PNG)
 
 </div>
 
