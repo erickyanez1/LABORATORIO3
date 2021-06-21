@@ -91,7 +91,7 @@
 Se concluye que:
 
 - o
-- o
+- En el análisis por nodos se hace uso del KCL a cada nodo del circuito para encontrar los voltajes mediante un sistema de ecuaciones, el cual nos dará una ecuación por cada nodo.
 - o
 
 # **7. BIBLIOGRAFÍA**
