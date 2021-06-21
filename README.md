@@ -49,7 +49,7 @@
 
 <div align="center">
 
-
+![](https://github.com/erickyanez1/LABORATORIO3/blob/main/IMG/3.1.PNG)
   
   
  </div>
