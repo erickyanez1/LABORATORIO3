@@ -110,5 +110,6 @@ Se concluye que:
 # **7. BIBLIOGRAFÍA**
 
 Alexander, Charles K., Fundamentos de circuitos eléctricos. McGraw-Hill, 2006.
+
 SENSORICX. 2018. ▷ CIRCUITOS ELÉCTRICOS: 【ANALISIS DE NODOS】. Recuperado de: https://sensoricx.com/circuitos-electricos-dc/analisis-de-circuitos-empleando-nodos/
 
