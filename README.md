@@ -93,7 +93,7 @@ Tabla 3.1 Tabla de resultados
 
 #  4.RESPUESTA A INTERROGANTES Y CÁLCULO DEL ERROR
 
-
+![](https://github.com/erickyanez1/LABORATORIO3/blob/main/IMG/Error.png)
 
 # **5. VIDEO**
 
@@ -105,6 +105,10 @@ Se concluye que:
 
 - o
 - En el análisis por nodos se hace uso del KCL a cada nodo del circuito para encontrar los voltajes mediante un sistema de ecuaciones, el cual nos dará una ecuación por cada nodo.
-- o
+- El porcentaje de error en los datos obtenidos al hacer el análisis del circuito teoricamente coinciden con los obtenidos  en la practica, estos en algunos caso puede variar depende el simulador que se emplee ya que el material que utilicemos influye mucho en las mediciones.
 
 # **7. BIBLIOGRAFÍA**
+
+Alexander, Charles K., Fundamentos de circuitos eléctricos. McGraw-Hill, 2006.
+SENSORICX. 2018. ▷ CIRCUITOS ELÉCTRICOS: 【ANALISIS DE NODOS】. Recuperado de: https://sensoricx.com/circuitos-electricos-dc/analisis-de-circuitos-empleando-nodos/
+
