@@ -88,6 +88,9 @@ Tabla 3.1 Tabla de resultados
 
 ![](https://github.com/erickyanez1/LABORATORIO3/blob/main/IMG/circuito.jpg) 
 
+  
+![](https://github.com/erickyanez1/LABORATORIO3/blob/main/IMG/cap4.PNG)
+  
 </div>
 
 #  4.RESPUESTA A INTERROGANTES Y CÁLCULO DEL ERROR
