@@ -46,8 +46,6 @@
 Tabla 3.1 Tabla de resultados
 
 
-![](https://github.com/erickyanez1/LABORATORIO3/blob/main/IMG/cap4.PNG)
-
 ## **3.1 PROCEDIMIENTO**
 
 ###### **3.1.1 Implemente el circuito de la figura 3.1.**
@@ -64,7 +62,8 @@ Tabla 3.1 Tabla de resultados
 
 ![](https://github.com/erickyanez1/LABORATORIO3/blob/main/IMG/cap3.PNG)
 
-  
+![](https://github.com/erickyanez1/LABORATORIO3/blob/main/IMG/cap4.PNG) 
+
  </div>
 
 ###### **3.1.2 Mida cada uno de los voltajes de nodo y anote los resultados en la tabla 3.1.**
