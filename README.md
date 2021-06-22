@@ -16,12 +16,12 @@
 # **1. OBJETIVOS**
 
 **OBJETIVO GENERAL**
-  - as
+  - Comprender la importancia del análisis de nodos para los cálculos de voltajes en cada una de las mallas y nodos divididos en un circuito electrónico.
  
  **OBJETIVOS ESPECÍFICOS**
-  - as
-  - as
-  - as
+  - Resolver los nodos de tal manera que nos quede un sistema de ecuaciones en los cuales la cantidad de variables dependerá de los nodos de los que se desee conocer su tensión.
+  - Interpretar los diagramas de los circuitos correctamente para no escoger mal los nodos a calcular.
+  - Calcular los sistemas de ecuaciones por medio del despeje aplicando el álgebra lineal o un software de computadora.
 
 # **2. MARCO TEÓRICO**
 
@@ -103,7 +103,7 @@ Tabla 3.1 Tabla de resultados
 
 Se concluye que:
 
-- o
+- Los nodos a calcular serán nuestras variables de voltaje, para ello se deberá formar un sistema de ecuaciones con previo conocimiento de que voltajes y resistencias pasan por cada nodo.
 - En el análisis por nodos se hace uso del KCL a cada nodo del circuito para encontrar los voltajes mediante un sistema de ecuaciones, el cual nos dará una ecuación por cada nodo.
 - El porcentaje de error en los datos obtenidos al hacer el análisis del circuito teoricamente coinciden con los obtenidos  en la practica, estos en algunos caso puede variar depende el simulador que se emplee ya que el material que utilicemos influye mucho en las mediciones.
 
