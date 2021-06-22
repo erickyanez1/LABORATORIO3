@@ -43,13 +43,6 @@
 
 # **3. EXPLICACIÓN DEL PROCEDIMIENTO**
 
-![](https://github.com/erickyanez1/LABORATORIO3/blob/main/IMG/cap1.PNG)
-
-![](https://github.com/erickyanez1/LABORATORIO3/blob/main/IMG/cap2.PNG)
-
-![](https://github.com/erickyanez1/LABORATORIO3/blob/main/IMG/cap3.PNG)
-
-
 Tabla 3.1 Tabla de resultados
 
 
@@ -63,6 +56,14 @@ Tabla 3.1 Tabla de resultados
 
 ![](https://github.com/erickyanez1/LABORATORIO3/blob/main/IMG/3.1.PNG)
   
+![](https://github.com/erickyanez1/LABORATORIO3/blob/main/IMG/circuito.jpg) 
+
+![](https://github.com/erickyanez1/LABORATORIO3/blob/main/IMG/cap1.PNG)
+
+![](https://github.com/erickyanez1/LABORATORIO3/blob/main/IMG/cap2.PNG)
+
+![](https://github.com/erickyanez1/LABORATORIO3/blob/main/IMG/cap3.PNG)
+
   
  </div>
 
@@ -85,8 +86,6 @@ Tabla 3.1 Tabla de resultados
 ###### **3.1.4 Compare los valores de la tabla 3.1 y realice sus conclusiones.**
 
 <div align="center">
-
-![](https://github.com/erickyanez1/LABORATORIO3/blob/main/IMG/circuito.jpg) 
 
   
 ![](https://github.com/erickyanez1/LABORATORIO3/blob/main/IMG/cap4.PNG)
