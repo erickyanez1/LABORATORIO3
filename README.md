@@ -35,11 +35,10 @@
 # MATERIAL Y EQUIPO REQUERIDO
 
 <div align="center">
-
-
   
-  
-
+![](https://github.com/erickyanez1/LABORATORIO3/blob/main/IMG/Materiales.png)
+![](https://github.com/erickyanez1/LABORATORIO3/blob/main/IMG/Tabla%20materiales.png)
+ 
 </div>
 
 # **3. EXPLICACIÓN DEL PROCEDIMIENTO**
