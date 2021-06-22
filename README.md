@@ -49,6 +49,8 @@
 
 ![](https://github.com/erickyanez1/LABORATORIO3/blob/main/IMG/cap3.PNG)
 
+
+Tabla 3.1 Tabla de resultados
 ![](https://github.com/erickyanez1/LABORATORIO3/blob/main/IMG/cap4.PNG)
 
 ## **3.1 PROCEDIMIENTO**
