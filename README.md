@@ -27,7 +27,8 @@
 
 <div align="center">
   
-
+  ![](https://github.com/erickyanez1/LABORATORIO3/blob/main/IMG/MarcoTeorico_1.png)
+![](https://github.com/erickyanez1/LABORATORIO3/blob/main/IMG/MarcoTeorico_2.png)
   
 </div>
   
