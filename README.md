@@ -43,6 +43,14 @@
 
 # **3. EXPLICACIÓN DEL PROCEDIMIENTO**
 
+![](https://github.com/erickyanez1/LABORATORIO3/blob/main/IMG/cap1.PNG)
+
+![](https://github.com/erickyanez1/LABORATORIO3/blob/main/IMG/cap2.PNG)
+
+![](https://github.com/erickyanez1/LABORATORIO3/blob/main/IMG/cap3.PNG)
+
+![](https://github.com/erickyanez1/LABORATORIO3/blob/main/IMG/cap4.PNG)
+
 ## **3.1 PROCEDIMIENTO**
 
 ###### **3.1.1 Implemente el circuito de la figura 3.1.**
